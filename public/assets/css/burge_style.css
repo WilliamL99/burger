@@ -1,20 +1,26 @@
-li {
-    padding: 5px;
-    margin: 5px;
-    background: #faebd7;
-  }
-  
-  .label {
-    font-weight: bold;
-  }
-  
-  .create-update-form {
-    padding: 5px;
-    margin: 5px;
-    background: aqua;
-  }
-  
-  .form-group {
-    margin-bottom: 5px;
-  }
-  
+body
+{
+    background-color: burlywood;
+}
+
+.burgerName
+{
+    background-color: white;
+    padding: 8px 0;
+}
+
+.row
+{
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+.row .col-12 img
+{
+    padding-top: 16px;
+}
+
+.devoured
+{
+    text-decoration: line-through;
+}
